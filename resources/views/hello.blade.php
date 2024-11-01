@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Trang chu
+    <p>Hello</p>
 </body>
 </html>
